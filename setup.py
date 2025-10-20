@@ -1,5 +1,5 @@
 from setuptools import find_namespace_packages,setup
-from setuptools import setup, find_packages # Make sure find_packages is imported
+from setuptools import setup, find_packages 
 
 setup(
     name="medical-chatbot",
